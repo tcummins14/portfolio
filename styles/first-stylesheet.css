@@ -22,14 +22,14 @@ body {
     font-family: sans-serif;
 }
 
-#separate {
+p.separate big {
     border-top-style: solid; 
     border-top-width: 2em; 
     width: 100%; 
     color: #cdde90;
 }
 
-#separate-articles {
+p.separate {
     border-top-style: solid; 
     border-top-width: .5em; 
     width: 90%; 
